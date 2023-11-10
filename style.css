@@ -24,15 +24,15 @@ header
     text-align: center;
 }
 .header-content h2{
-    font-size: 4vmin;
-    margin-bottom:10px;
+    font-size: 6vmin;
+    margin-bottom:15px;
 }
 .header-content h1{
     text-align: center;
     color: whitesmoke;
     margin-top: 25px;
     margin-bottom: 30px;
-    font-size: 7vmin;
+    font-size: 8vmin;
 }
 
 .LM{
