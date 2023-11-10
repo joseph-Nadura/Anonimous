@@ -25,6 +25,7 @@ header
 }
 .header-content h2{
     font-size: 4vmin;
+    margin-bottom:10px;
 }
 .header-content h1{
     text-align: center;
